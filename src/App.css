@@ -1,0 +1,23 @@
+.container {
+  width: 1440px;
+  height: 100vh;
+  margin: 0 auto;
+  background-image: url('https://wallpapercave.com/wp/v9mJHPF.jpg');
+}
+
+.App {
+  padding: 30px;
+  display: flex;
+
+
+}
+
+.App > div {
+  text-align: center;
+  margin-right: 50px;
+  background-color: #919191;
+}
+
+ul {
+  text-align: start;
+}
